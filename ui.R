@@ -6,7 +6,7 @@ shinyUI(fluidPage(
   # APP title and brif info
  titlePanel("I See Data"),
  p("This is a simple web APP built by",a("Shiny",href="http://www.rstudio.com/shiny"),"(a web application framework for R). "),
- p("After uploading a CSV dataset, the APP will display the dataset in a table view, and show the data stucture and data summary at well. "),
+ p("After uploading a CSV dataset, the APP will display the dataset in a table view, and show the data structure and data summary as well. "),
   
  # sidebar layout
  # sidebar panel with file uploading and choosing the numer of displayed observations
